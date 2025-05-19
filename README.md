@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 
   #### **My Github Stats**
 ![mfaisol GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmans03&show_icons=true&theme=merko)
- stats](https://github-readme-stats.vercel.app/api?username=mfaisol&show_icons=true&theme=merko)
 
