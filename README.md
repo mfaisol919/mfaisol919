@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColorblue=blue">
 
-  
-#### **My Github Stats**
-![rsmans03 GitHub![https://instangram.com/veldora9209](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  #### **My Github Stats**
+![mfaisol GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmans03&show_icons=true&theme=merko)
+ stats](https://github-readme-stats.vercel.app/api?username=mfaisol&show_icons=true&theme=merko)
+
