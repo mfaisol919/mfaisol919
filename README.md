@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning python
 
-  ! [mfaisol919](IMG-20250519-WA0040.jpg)
+  ![mfaisol919](IMG-20250519-WA0040.jpg)
 
   - 📖 I'm learning python
 
