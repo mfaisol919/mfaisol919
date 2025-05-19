@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning python
+
+  ! [mfaisol919](github-header-image.png)
+
+  - 📖 I'm learning python
+
+    ### **Learning**
+
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColorblue=blue">
+
+  
+#### **My Github Stats**
+![rsmans03 GitHub![https://instangram.com/veldora9209](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
