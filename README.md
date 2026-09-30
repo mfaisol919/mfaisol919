@@ -29,8 +29,6 @@ Mimpiku adalah menjadi programmer yang handal dan mengarungi lautan kode untuk m
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
 ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge\&logo=drizzle\&logoColor=black)
 
 ## 3. ⚽ Harta Karun yang Telah Ditemukan (Proyek)
 
