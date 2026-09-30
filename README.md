@@ -1,33 +1,3 @@
-## Hello world! I'm mfaisol
-
-<!--
-**mfaisol919/mfaisol919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning python
-
-  ![mfaisol919](IMG-20250519-WA0040.jpg)
-
-  - 📖 I'm learning python
-
-    ### **Learning**
-
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColorblue=blue">
-
-  #### **My Github Stats**
-![mfaisol GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmans03&show_icons=true&theme=merko)
-
 <div align="center">
   <img width="498" height="200" alt="luffy-banner" src="https://media.giphy.com/media/MVa8iDMGL70Jy/giphy.gif" />
 </div>
@@ -60,10 +30,7 @@ Mimpiku adalah menjadi programmer yang handal dan mengarungi lautan kode untuk m
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
 ![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge\&logo=drizzle\&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge\&logo=google\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ## 3. ⚽ Harta Karun yang Telah Ditemukan (Proyek)
 
