@@ -41,13 +41,18 @@ Website sistem reservasi lapangan futsal yang dirancang untuk memudahkan pelangg
 
 ## 4. 📜 Logbook Pelayaran (Bukti Commit)
 
-Lencana Profil: [![GitHub Faisol](https://img.shields.io/badge/GitHub-Moh__Faisol-181717?style=for-the-badge\&logo=github)](#)
+Lencana Profil: [![GitHub Faisol](https://img.shields.io/badge/GitHub-Moh__Faisol-181717?style=for-the-badge\&logo=github)](https://github.com/mfaisol919)
 
 ```bash
 $ git log --oneline -5
 
-docs(p1): init My Profile index
+docs: update profile README
+feat: add futsal reservation project
+docs: update programming skills
+docs: update education history
+docs: update profile banner
 ```
+
 
 ## 5. 🗺️ Peta Petualangan (Riwayat Pendidikan)
 
